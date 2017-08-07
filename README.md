@@ -1,4 +1,4 @@
 # Blurite
 
-To use Material design [Material CSS](http://materializecss.com)
+To use A modern responsive front-end framework based on [Material CSS](http://materializecss.com)
 
