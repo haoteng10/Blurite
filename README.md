@@ -4,7 +4,7 @@ To use a modern responsive front-end framework based on [Material CSS](http://ma
 
 Visit the site: https://haoteng10.github.io/Blurite/
 
-###Goal
-*1
-*2
-*3
+### Goal
+* 1
+* 2
+* 3
